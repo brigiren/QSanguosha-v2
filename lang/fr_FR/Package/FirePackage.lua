@@ -8,9 +8,9 @@ return {
 	["illustrator:xunyu"] = "LiuHeng",
 	["quhu"] = "Réveil du tigre",
 	[":quhu"] = "Au cours de votre phase d'action, vous pouvez provoquer un autre joueur ayant plus de points de vie que vous en duel. \nSi vous gagnez: le joueur ciblé doit attaquer un autre joueur de votre choix à sa portée\nSi vous perdez: vous recevez 1 dommage de ce joueur.",
-	["@quhu-damage"] = "Veuillez sélectionné un joueur à portée de %src  一 Cliquez sur OK",
+	["@quhu-damage"] = "Veuillez sélectionné un joueur à portée de %src → Cliquez sur OK",
 	["jieming"] = "Loyauté éternelle",
-	[":jieming"] = "Chaque fois que vous subissez une blessure，sélectionnez un joueur 一 Ce joueur pioche alors des cartes jusqu'à avoir un nombre de cartes dans sa main égal à sa limite de points de vie maximum.（Il ne peut cependant pas piocher plus de 5 cartes）.",
+	[":jieming"] = "Chaque fois que vous subissez une blessure，sélectionnez un joueur. Ce joueur pioche alors des cartes jusqu'à avoir un nombre de cartes dans sa main égal à sa limite de points de vie maximum.（Il ne peut cependant pas piocher plus de 5 cartes）.",
 	["jieming-invoke"] = "Vous pouvez utiliser “Loyauté éternelle”<br/> <b>Instructions</b>: Sélectionner un joueur → Cliquez sur Valider<br/>",
 	["#QuhuNoWolf"] = "%from “<font color=\"yellow\"><b>Réveil du tigre</b></font>”Duel remporté，car aucun autre joueur se situe à une portée d'attaque de %to",
 
@@ -41,7 +41,7 @@ return {
 
 	["#taishici"] = "Le guerrier Ardent",
 	["taishici"] = "Tai Shi Ci ",
-	["illustrator:taishici"] = "Tuu.",
+	["illustrator:taishici"] = "Tuu",
 	["tianyi"] = "Justice du ciel",
 	[":tianyi"] = "Lors de votre phase d'action, vous pouvez provoquer en duel un autre joueur. Si vous gagnez le duel:\n1. Vos【ATTAQUE】n'ont pas de limite de portée\n2. Vous pouvez utiliser une 2 eme cattaque\3. Vous pouvez cibler 2 personnes avec votre attaque",
 
